@@ -7,3 +7,4 @@ The book that I will be using is [R for Data Science](http://r4ds.had.co.nz/), w
 To get started, do the following:
 1. Download and install R: https://www.r-project.org/
 2. Download and install RStudio: https://www.rstudio.com/products/rstudio/
+3. Open RStudio and type and run `install.packages("tidyverse")` in the console to install the [tidyverse](https://www.tidyverse.org/) suite of packages.
