@@ -8,3 +8,17 @@ To get started, do the following:
 1. Download and install R: https://www.r-project.org/
 2. Download and install RStudio: https://www.rstudio.com/products/rstudio/
 3. Open RStudio and type and run `install.packages("tidyverse")` in the console to install the [tidyverse](https://www.tidyverse.org/) suite of packages.
+---
+**Schedule and Room**
+
+| Session | Date       | Room    |
+| ------- | ---------- | ------- |
+| 1       | 2018-03-02 | SSB 110 |
+| 1       | 2018-03-09 | SSB 301 |
+| 2       | 2018-03-23 | SSB 303 |
+| 2       | 2018-03-30 | SSB 303 |
+| 3       | 2018-04-06 | SSB 110 |
+| 3       | 2018-04-13 | SSB 110 |
+| 4       | 2018-04-20 | SSB 303 |
+| 4       | 2018-04-27 | SSB 111 |
+<!-- | 5       | 2018-05-04 | SSB 110 | -->
